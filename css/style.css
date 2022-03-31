@@ -15,9 +15,10 @@ header ul{
     float: left;
     width: 50%;
     margin-left: auto;
+    background-color: #F4EEE6;
 }
 .heroImg {
-    height: 600px;
+    height: 400px;
     padding: 25px;
 }
 .content {
