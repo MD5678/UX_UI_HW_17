@@ -1,11 +1,32 @@
-header{
-    height: 250px
-    max-height: 500px
-    background-image: 
-background-size: cover
-background-repeat: no repeat
+header {
+  display: inline-block;
+vertical-align: text-top; 
 }
-/* .darkblue { */
-    background-color: #333366;
+logo{
+    max-width:23%;
+    padding: 1%;
+    text-align: center;
 }
-
+nav{
+    max-width:73%;
+    padding: 1%;
+}
+header ul{
+    float: left;
+    width: 50%;
+    margin-left: auto;
+}
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+footer{
+    background-color: #F4EEE6;
+}
+footer p{
+    text-align: center;
+}
