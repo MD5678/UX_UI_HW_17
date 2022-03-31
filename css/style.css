@@ -1,4 +1,4 @@
-header {
+header li{
   display: inline-block;
 vertical-align: text-top; 
 }
@@ -7,7 +7,7 @@ logo{
     padding: 1%;
     text-align: center;
 }
-nav{
+.navigation{
     max-width:73%;
     padding: 1%;
 }
