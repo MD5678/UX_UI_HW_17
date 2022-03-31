@@ -13,9 +13,10 @@ logo{
 }
 header ul{
     float: left;
-    width: 50%;
+    width: 100%;
     margin-left: auto;
     background-color: #F4EEE6;
+    padding: 25px;
 }
 .heroImg {
     height: 400px;
